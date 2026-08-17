@@ -1,0 +1,4 @@
+title: zoahdev — engineering notes
+description: Evidence-first engineering deep-dives on DeepSeek Harness and agent runtimes. Root causes, reproductions, mechanism-level fixes.
+url: "https://zoahdev.github.io/blog"
+theme: minima
